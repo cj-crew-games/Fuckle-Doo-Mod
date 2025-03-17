@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				53,
+				-17
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mario_down instance "
+		},
+		{
+			"offsets": [
+				-8,
+				127
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mario_right instance "
+		},
+		{
+			"offsets": [
+				259,
+				-10
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mario_left instance "
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mario_up instance "
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "idle",
+			"indices": [],
+			"name": "Symbol 1 instance "
+		},
+		{
+			"offsets": [
+				59,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "forced",
+			"indices": [],
+			"name": "Symbol 1 instance "
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/forcedto",
+	"position": [
+		280,
+		-320
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		90,
+		480
+	],
+	"sing_duration": 4,
+	"scale": 0.4,
+	"_editor_isPlayer": false
+}

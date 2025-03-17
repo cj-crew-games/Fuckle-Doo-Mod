@@ -1,0 +1,2 @@
+BUILT TO BE USED WITH BIGARROWBOUNCE
+First value is true/false, that enables/disables the event

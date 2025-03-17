@@ -1,0 +1,95 @@
+{
+	"storyName": "fuckle doo mod",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"obscura",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"iron-lung",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"an-ode-to-my-friend",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"infitialis",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"lethal-hah",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"butchery",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"basic-education",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"yo-choma41-mix",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "twiddle dickle"
+}

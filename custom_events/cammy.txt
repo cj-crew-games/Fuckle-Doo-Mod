@@ -1,0 +1,1 @@
+set value1 to true for the cam stuff and false to disable it

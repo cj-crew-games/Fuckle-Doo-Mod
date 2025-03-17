@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-70,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down instance 1000"
+		},
+		{
+			"offsets": [
+				71,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left instance 1000"
+		},
+		{
+			"offsets": [
+				-16,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance 1000"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance 1000",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 44,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle instance 1000"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/babby",
+	"position": [
+		-70,
+		380
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		30,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,4 @@
+BUILT TO BE USED WITH BIGARROWBOUNCESUPPORT
+First value is true/false, that enables/disables the event
+set value2 to 1.05, that's what I tested with :/
+(it's intensity of the zoom)

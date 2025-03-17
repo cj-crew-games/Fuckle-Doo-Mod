@@ -1,0 +1,4 @@
+value1 = amount of "oomph" (y values are switched, + = -)
+value2 = put 'step' to make bump every other beat
+place to start funky arrow loops on beat
+use ArrowCancel to stop

@@ -1,0 +1,4 @@
+value1 = amount of zoom (default is usually 0.9)
+value2 = put 'step' to make the zoom every other beat
+place to start a loop of zooms on beat
+use ZoomCancel to stop

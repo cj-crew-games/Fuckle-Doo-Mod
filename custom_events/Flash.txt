@@ -1,0 +1,2 @@
+value 1 = hexadecimal colour (leave it blank for white)
+value 2 = duration of the flash

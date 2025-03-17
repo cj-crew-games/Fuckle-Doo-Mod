@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 8,
+			"name": "Mario_Idle instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-17
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "Mario_down instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				127
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Mario_right instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				259,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Mario_left instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				200
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Mario_up instance ",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/Mariophasetwo",
+	"position": [
+		-330,
+		-320
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		90,
+		470
+	],
+	"sing_duration": 4,
+	"scale": 0.4,
+	"_editor_isPlayer": false
+}
