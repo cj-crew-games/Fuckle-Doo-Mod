@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="baldiyctp.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="D10000" x="338" y="0" width="64" height="57" frameX="0" frameY="-9" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="D20000" x="338" y="57" width="64" height="57" frameX="0" frameY="-9" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="D30000" x="252" y="255" width="66" height="59" frameX="1" frameY="-7" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="D40000" x="204" y="193" width="68" height="61" frameX="2" frameY="-5" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="D50000" x="0" y="193" width="68" height="62" frameX="2" frameY="-4" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="I10000" x="0" y="130" width="68" height="63" frameX="2" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="L10000" x="124" y="255" width="64" height="61" frameX="2" frameY="-5" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="L20000" x="188" y="255" width="64" height="61" frameX="2" frameY="-5" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="L30000" x="272" y="187" width="65" height="61" frameX="2" frameY="-5" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="L40000" x="272" y="62" width="66" height="62" frameX="2" frameY="-4" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="L50000" x="136" y="193" width="68" height="62" frameX="2" frameY="-4" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="R10000" x="0" y="255" width="62" height="63" frameX="-4" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="R20000" x="62" y="255" width="62" height="63" frameX="-4" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="R30000" x="272" y="124" width="64" height="63" frameX="-2" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="R40000" x="272" y="0" width="66" height="62" frameX="0" frameY="-4" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="R50000" x="68" y="193" width="68" height="62" frameX="2" frameY="-4" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="T10000" x="0" y="130" width="68" height="63" frameX="2" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="T20000" x="204" y="126" width="68" height="63" frameX="2" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="T30000" x="68" y="130" width="68" height="63" frameX="2" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="T40000" x="204" y="63" width="68" height="63" frameX="2" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="T50000" x="136" y="130" width="68" height="63" frameX="2" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="T60000" x="204" y="0" width="68" height="63" frameX="2" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="T70000" x="136" y="64" width="68" height="63" frameX="2" frameY="-3" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="U10000" x="136" y="0" width="68" height="64" frameX="2" frameY="-2" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="U20000" x="68" y="0" width="68" height="65" frameX="2" frameY="-1" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="U30000" x="0" y="65" width="68" height="65" frameX="2" frameY="-1" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="U40000" x="0" y="0" width="68" height="65" frameX="2" frameY="-1" frameWidth="64" frameHeight="64"/>
+	<SubTexture name="U50000" x="68" y="65" width="68" height="64" frameX="2" frameY="-2" frameWidth="64" frameHeight="64"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="manaui.png" width="328" height="308">
+  <SubTexture name="danceL1.png" x="0" y="0"  width="96" height="166" frameX="-40" frameY="-15" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="danceR1.png" x="96" y="0"  width="94" height="167" frameX="-60" frameY="-15" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="danceL2.png" x="0" y="167" width="167" height="76" rotated="true"  frameX="-58" frameY="-15" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="danceR2.png" x="190" y="0"  width="74" height="167" frameX="-63" frameY="-15" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="danceL3.png" x="0" y="243" width="168" height="65" rotated="true"  frameX="-63" frameY="-14" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="danceR3.png" x="264" y="0"  width="64" height="168" frameX="-66" frameY="-14" frameWidth="192" frameHeight="192"/>
+</TextureAtlas>

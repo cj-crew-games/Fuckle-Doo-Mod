@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="tinyemp.png" width="834" height="848">
+  <SubTexture name="dance29.gif" x="0" y="0"  width="101" height="196" frameX="-14" frameY="-3" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance08.gif" x="101" y="0"  width="103" height="191" frameX="-13" frameY="-7" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance07.gif" x="0" y="196" width="189" height="104" rotated="true"  frameX="-13" frameY="-10" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance30.gif" x="204" y="0"  width="102" height="192" frameX="-13" frameY="-6" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance32.gif" x="189" y="192"  width="102" height="192" frameX="-13" frameY="-6" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance31.gif" x="291" y="192"  width="103" height="188" frameX="-13" frameY="-10" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance06.gif" x="0" y="300"  width="99" height="193" frameX="-13" frameY="-5" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance09.gif" x="99" y="384" width="195" height="97" rotated="true"  frameX="-14" frameY="-3" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance00.gif" x="294" y="380" width="195" height="94" rotated="true"  frameX="-15" frameY="-3" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance05.gif" x="306" y="0" width="195" height="94" rotated="true"  frameX="-14" frameY="-3" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance10.gif" x="306" y="94" width="195" height="93" rotated="true"  frameX="-16" frameY="-4" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance13.gif" x="294" y="474" width="197" height="92" rotated="true"  frameX="-15" frameY="-2" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance01.gif" x="394" y="187"  width="92" height="193" frameX="-16" frameY="-5" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance02.gif" x="99" y="481" width="193" height="92" rotated="true"  frameX="-16" frameY="-5" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance28.gif" x="489" y="187"  width="91" height="194" frameX="-15" frameY="-6" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance12.gif" x="491" y="381"  width="88" height="192" frameX="-18" frameY="-7" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance21.gif" x="292" y="566" width="196" height="86" rotated="true"  frameX="-14" frameY="-3" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance04.gif" x="0" y="573" width="190" height="88" rotated="true"  frameX="-18" frameY="-8" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance14.gif" x="488" y="573" width="192" height="87" rotated="true"  frameX="-14" frameY="-7" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance17.gif" x="580" y="0"  width="85" height="196" frameX="-14" frameY="-3" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance22.gif" x="580" y="196"  width="85" height="194" frameX="-14" frameY="-5" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance26.gif" x="190" y="652" width="194" height="85" rotated="true"  frameX="-15" frameY="-5" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance25.gif" x="384" y="660" width="196" height="84" rotated="true"  frameX="-14" frameY="-3" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance16.gif" x="665" y="0"  width="85" height="193" frameX="-14" frameY="-6" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance18.gif" x="665" y="193"  width="85" height="193" frameX="-14" frameY="-6" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance20.gif" x="680" y="386"  width="85" height="192" frameX="-16" frameY="-7" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance11.gif" x="0" y="661" width="189" height="86" rotated="true"  frameX="-20" frameY="-10" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance24.gif" x="189" y="737" width="191" height="85" rotated="true"  frameX="-14" frameY="-8" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance27.gif" x="680" y="578"  width="85" height="191" frameX="-16" frameY="-8" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance03.gif" x="580" y="660"  width="86" height="188" frameX="-20" frameY="-10" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance19.gif" x="380" y="744" width="190" height="84" rotated="true"  frameX="-16" frameY="-9" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance23.gif" x="750" y="0"  width="84" height="190" frameX="-14" frameY="-9" frameWidth="129" frameHeight="200"/>
+  <SubTexture name="dance15.gif" x="0" y="747" width="189" height="84" rotated="true"  frameX="-14" frameY="-10" frameWidth="129" frameHeight="200"/>
+</TextureAtlas>

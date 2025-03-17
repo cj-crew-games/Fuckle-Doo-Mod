@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="evilmario.png" width="769" height="860">
+  <SubTexture name="U1.png" x="2" y="2"  width="106" height="184" frameX="-62" frameY="-2" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="U2.png" x="112" y="2"  width="128" height="182" frameX="-61" frameY="-8" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="U3.png" x="112" y="188"  width="128" height="182" frameX="-61" frameY="-8" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="S4.png" x="244" y="2"  width="115" height="176" frameX="-56" frameY="-11" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="S5.png" x="244" y="182"  width="114" height="176" frameX="-56" frameY="-11" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="S6.png" x="363" y="2"  width="116" height="176" frameX="-56" frameY="-12" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="S3.png" x="362" y="182"  width="116" height="174" frameX="-56" frameY="-14" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="S2.png" x="362" y="360"  width="116" height="173" frameX="-56" frameY="-14" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="I3.png" x="2" y="374"  width="116" height="172" frameX="-56" frameY="-15" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="I1.png" x="122" y="374"  width="117" height="171" frameX="-55" frameY="-16" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="S1.png" x="483" y="2"  width="117" height="171" frameX="-55" frameY="-16" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="S8.png" x="483" y="177"  width="117" height="171" frameX="-55" frameY="-16" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="I2.png" x="482" y="352"  width="117" height="170" frameX="-55" frameY="-16" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="S7.png" x="482" y="526"  width="117" height="170" frameX="-55" frameY="-17" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="R2.png" x="2" y="550"  width="136" height="168" frameX="-56" frameY="-18" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="R3.png" x="142" y="549"  width="134" height="168" frameX="-56" frameY="-18" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="R1.png" x="280" y="537"  width="135" height="166" frameX="-56" frameY="-19" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="D2.png" x="604" y="2"  width="163" height="139" frameX="-28" frameY="-49" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="L2.png" x="604" y="145"  width="161" height="136" frameX="-24" frameY="-46" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="D1.png" x="604" y="285"  width="160" height="127" frameX="-29" frameY="-60" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="L1.png" x="603" y="416"  width="156" height="130" frameX="-19" frameY="-50" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="D3.png" x="603" y="550"  width="143" height="139" frameX="-28" frameY="-49" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="L3.png" x="2" y="722"  width="125" height="136" frameX="-24" frameY="-46" frameWidth="192" frameHeight="192"/>
+</TextureAtlas>

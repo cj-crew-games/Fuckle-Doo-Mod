@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="blazegoomba.png" width="556" height="560">
+  <SubTexture name="I2.png" x="0" y="0"  width="278" height="282" frameX="-46" frameY="-73" frameWidth="386" frameHeight="379"/>
+  <SubTexture name="I1.png" x="278" y="0"  width="278" height="280" frameX="-46" frameY="-74" frameWidth="386" frameHeight="379"/>
+  <SubTexture name="I3.png" x="278" y="280"  width="278" height="280" frameX="-47" frameY="-75" frameWidth="386" frameHeight="379"/>
+</TextureAtlas>

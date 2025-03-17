@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="babby.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down instance 10000" x="0" y="0" width="338" height="376" frameX="0" frameY="-19" frameWidth="338" frameHeight="395"/>
+	<SubTexture name="Down instance 10001" x="0" y="0" width="338" height="376" frameX="0" frameY="-19" frameWidth="338" frameHeight="395"/>
+	<SubTexture name="Down instance 10002" x="338" y="0" width="292" height="394" frameX="-8" frameY="0" frameWidth="338" frameHeight="395"/>
+	<SubTexture name="Idle instance 10000" x="630" y="0" width="400" height="436" frameX="-64" frameY="-13" frameWidth="464" frameHeight="449"/>
+	<SubTexture name="Idle instance 10001" x="1030" y="0" width="422" height="447" frameX="0" frameY="0" frameWidth="464" frameHeight="449"/>
+	<SubTexture name="Idle instance 10002" x="1030" y="0" width="422" height="447" frameX="0" frameY="0" frameWidth="464" frameHeight="449"/>
+	<SubTexture name="Idle instance 10003" x="1030" y="0" width="422" height="447" frameX="0" frameY="0" frameWidth="464" frameHeight="449"/>
+	<SubTexture name="Left instance 10000" x="1452" y="0" width="430" height="448" frameX="0" frameY="-30" frameWidth="432" frameHeight="488"/>
+	<SubTexture name="Left instance 10001" x="1452" y="0" width="430" height="448" frameX="0" frameY="-30" frameWidth="432" frameHeight="488"/>
+	<SubTexture name="Left instance 10002" x="0" y="448" width="392" height="488" frameX="-40" frameY="0" frameWidth="432" frameHeight="488"/>
+	<SubTexture name="Right instance 10000" x="392" y="448" width="520" height="459" frameX="0" frameY="-5" frameWidth="520" frameHeight="466"/>
+	<SubTexture name="Right instance 10001" x="392" y="448" width="520" height="459" frameX="0" frameY="-5" frameWidth="520" frameHeight="466"/>
+	<SubTexture name="Right instance 10002" x="912" y="448" width="415" height="466" frameX="-55" frameY="0" frameWidth="520" frameHeight="466"/>
+	<SubTexture name="Up instance 10000" x="1327" y="448" width="445" height="640" frameX="0" frameY="0" frameWidth="445" frameHeight="645"/>
+	<SubTexture name="Up instance 10001" x="1327" y="448" width="445" height="640" frameX="0" frameY="0" frameWidth="445" frameHeight="645"/>
+	<SubTexture name="Up instance 10002" x="0" y="1088" width="373" height="552" frameX="-24" frameY="-93" frameWidth="445" frameHeight="645"/>
+</TextureAtlas>

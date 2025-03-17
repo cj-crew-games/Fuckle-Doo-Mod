@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="hpbar.png" width="387" height="312">
+  <SubTexture name="Health0.png" x="0" y="0"  width="129" height="156" frameX="-26" frameY="-19" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="Health1.png" x="129" y="0"  width="129" height="156" frameX="-26" frameY="-19" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="Health2.png" x="0" y="156"  width="129" height="156" frameX="-26" frameY="-19" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="Health3.png" x="129" y="156"  width="129" height="156" frameX="-26" frameY="-19" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="Health4.png" x="258" y="0"  width="129" height="156" frameX="-26" frameY="-19" frameWidth="192" frameHeight="192"/>
+  <SubTexture name="Health5.png" x="258" y="156"  width="129" height="156" frameX="-26" frameY="-19" frameWidth="192" frameHeight="192"/>
+</TextureAtlas>

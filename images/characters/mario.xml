@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mario.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="I10000" x="1201" y="175" width="104" height="175" frameX="-51" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="I20000" x="0" y="1065" width="100" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="I30000" x="1201" y="525" width="101" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P10000" x="820" y="0" width="132" height="175" frameX="-51" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P20000" x="820" y="350" width="131" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P30000" x="820" y="525" width="131" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P40000" x="682" y="340" width="133" height="175" frameX="-51" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P50000" x="820" y="175" width="131" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P60000" x="1201" y="700" width="101" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P70000" x="1201" y="350" width="104" height="175" frameX="-51" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P80000" x="1201" y="875" width="100" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P90000" x="1201" y="700" width="101" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P100000" x="1201" y="350" width="104" height="175" frameX="-51" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P110000" x="1201" y="875" width="100" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P120000" x="1201" y="700" width="101" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P130000" x="1201" y="0" width="104" height="175" frameX="-51" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P140000" x="414" y="175" width="137" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P150000" x="137" y="178" width="137" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P160000" x="275" y="175" width="139" height="175" frameX="-51" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P170000" x="0" y="367" width="137" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P180000" x="137" y="367" width="137" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P190000" x="275" y="0" width="139" height="175" frameX="-51" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P200000" x="274" y="367" width="137" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P210000" x="414" y="0" width="137" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P220000" x="411" y="367" width="136" height="173" frameX="-54" frameY="-15" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P230000" x="136" y="542" width="138" height="165" frameX="-52" frameY="-23" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P240000" x="682" y="170" width="137" height="170" frameX="-53" frameY="-19" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P250000" x="682" y="0" width="138" height="170" frameX="-56" frameY="-20" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P260000" x="0" y="542" width="136" height="170" frameX="-58" frameY="-21" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P270000" x="255" y="712" width="131" height="169" frameX="-57" frameY="-22" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P280000" x="952" y="524" width="126" height="172" frameX="-57" frameY="-19" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P290000" x="122" y="888" width="124" height="173" frameX="-55" frameY="-15" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P300000" x="1079" y="873" width="121" height="173" frameX="-54" frameY="-15" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P310000" x="1079" y="0" width="122" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P320000" x="246" y="888" width="121" height="173" frameX="-54" frameY="-15" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P330000" x="1079" y="350" width="122" height="175" frameX="-53" frameY="-14" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P340000" x="1079" y="0" width="122" height="175" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P350000" x="246" y="888" width="121" height="173" frameX="-54" frameY="-15" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P360000" x="1079" y="175" width="122" height="175" frameX="-53" frameY="-14" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P370000" x="1079" y="700" width="122" height="173" frameX="-53" frameY="-15" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P380000" x="367" y="888" width="121" height="170" frameX="-54" frameY="-18" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P390000" x="642" y="542" width="120" height="151" frameX="-53" frameY="-39" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P400000" x="397" y="542" width="123" height="155" frameX="-52" frameY="-35" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P410000" x="520" y="542" width="122" height="152" frameX="-53" frameY="-38" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P420000" x="274" y="542" width="123" height="158" frameX="-52" frameY="-32" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P430000" x="0" y="182" width="133" height="185" frameX="-56" frameY="-4" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P440000" x="0" y="0" width="137" height="182" frameX="-55" frameY="-7" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P450000" x="551" y="0" width="131" height="181" frameX="-56" frameY="-8" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P460000" x="137" y="0" width="138" height="178" frameX="-54" frameY="-11" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P470000" x="551" y="181" width="130" height="178" frameX="-57" frameY="-11" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P480000" x="551" y="359" width="128" height="176" frameX="-55" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P490000" x="128" y="712" width="127" height="175" frameX="-54" frameY="-14" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P500000" x="952" y="350" width="126" height="174" frameX="-57" frameY="-14" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P510000" x="0" y="712" width="128" height="176" frameX="-54" frameY="-14" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P520000" x="952" y="0" width="127" height="174" frameX="-54" frameY="-16" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P530000" x="952" y="174" width="125" height="176" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P540000" x="952" y="696" width="123" height="176" frameX="-53" frameY="-13" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P550000" x="0" y="888" width="122" height="177" frameX="-53" frameY="-12" frameWidth="192" frameHeight="192"/>
+	<SubTexture name="P560000" x="1079" y="525" width="121" height="175" frameX="-53" frameY="-14" frameWidth="192" frameHeight="192"/>
+</TextureAtlas>

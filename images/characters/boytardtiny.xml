@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="boytardtiny.png" width="394" height="401">
+  <SubTexture name="U1.png" x="0" y="0"  width="86" height="109" frameX="-32" frameY="-26" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="U2.png" x="86" y="0"  width="85" height="108" frameX="-33" frameY="-27" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="U3.png" x="86" y="108"  width="85" height="108" frameX="-33" frameY="-27" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="I5.png" x="0" y="109"  width="80" height="99" frameX="-33" frameY="-36" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="I6.png" x="171" y="0"  width="80" height="99" frameX="-33" frameY="-36" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="I7.png" x="171" y="99"  width="80" height="99" frameX="-33" frameY="-36" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="I4.png" x="0" y="208"  width="79" height="98" frameX="-33" frameY="-37" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="L1.png" x="171" y="198"  width="78" height="99" frameX="-29" frameY="-36" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="I3.png" x="79" y="216"  width="78" height="96" frameX="-33" frameY="-39" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="L2.png" x="249" y="198"  width="76" height="98" frameX="-32" frameY="-37" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="L3.png" x="251" y="0"  width="76" height="98" frameX="-32" frameY="-37" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="I2.png" x="0" y="306"  width="77" height="95" frameX="-34" frameY="-40" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="R2.png" x="251" y="98"  width="74" height="97" frameX="-45" frameY="-38" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="R3.png" x="249" y="296"  width="74" height="97" frameX="-45" frameY="-38" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="R1.png" x="157" y="297"  width="72" height="97" frameX="-49" frameY="-38" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="D1.png" x="77" y="312"  width="70" height="89" frameX="-39" frameY="-47" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="D2.png" x="323" y="296"  width="69" height="90" frameX="-39" frameY="-46" frameWidth="160" frameHeight="160"/>
+  <SubTexture name="D3.png" x="325" y="98"  width="69" height="90" frameX="-39" frameY="-46" frameWidth="160" frameHeight="160"/>
+</TextureAtlas>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="forcedto.png">
+	<!-- Created with Adobe Animate version 24.0.7.61 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 1 instance 10000" x="0" y="0" width="1277" height="1597" frameX="-64" frameY="-3" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10001" x="0" y="0" width="1277" height="1597" frameX="-64" frameY="-3" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10002" x="0" y="0" width="1277" height="1597" frameX="-64" frameY="-3" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10003" x="0" y="0" width="1277" height="1597" frameX="-64" frameY="-3" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10004" x="1277" y="0" width="1277" height="1570" frameX="-67" frameY="-26" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10005" x="1277" y="0" width="1277" height="1570" frameX="-67" frameY="-26" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10006" x="2554" y="0" width="1276" height="1593" frameX="-54" frameY="-3" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10007" x="2554" y="0" width="1276" height="1593" frameX="-54" frameY="-3" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10008" x="3830" y="0" width="1276" height="1595" frameX="-54" frameY="-1" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10009" x="5106" y="0" width="1298" height="1545" frameX="-29" frameY="-50" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10010" x="6404" y="0" width="1298" height="1512" frameX="-45" frameY="-84" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10011" x="0" y="1597" width="1297" height="1533" frameX="-19" frameY="-63" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10012" x="1297" y="1597" width="1297" height="1595" frameX="-3" frameY="0" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10013" x="1297" y="1597" width="1297" height="1595" frameX="-3" frameY="0" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10014" x="2594" y="1597" width="1323" height="1588" frameX="0" frameY="-7" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10015" x="2594" y="1597" width="1323" height="1588" frameX="0" frameY="-7" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10016" x="3917" y="1597" width="1375" height="1537" frameX="-27" frameY="-58" frameWidth="1402" frameHeight="1600"/>
+	<SubTexture name="Symbol 1 instance 10017" x="3917" y="1597" width="1375" height="1537" frameX="-27" frameY="-58" frameWidth="1402" frameHeight="1600"/>
+</TextureAtlas>

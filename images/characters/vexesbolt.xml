@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="vexesbolt.png" width="682" height="827">
+  <SubTexture name="I2.png" x="0" y="0"  width="173" height="487" frameX="-247" frameY="-104" frameWidth="640" frameHeight="640"/>
+  <SubTexture name="I5.png" x="173" y="0"  width="170" height="491" frameX="-250" frameY="-100" frameWidth="640" frameHeight="640"/>
+  <SubTexture name="I3.png" x="343" y="0"  width="171" height="488" frameX="-249" frameY="-103" frameWidth="640" frameHeight="640"/>
+  <SubTexture name="I1.png" x="0" y="491" width="494" height="168" rotated="true"  frameX="-251" frameY="-97" frameWidth="640" frameHeight="640"/>
+  <SubTexture name="I6.png" x="514" y="0"  width="168" height="494" frameX="-251" frameY="-97" frameWidth="640" frameHeight="640"/>
+  <SubTexture name="I7.png" x="0" y="659" width="494" height="168" rotated="true"  frameX="-251" frameY="-97" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="goomba.png" width="638" height="520">
+  <SubTexture name="U1.png" x="2" y="2"  width="113" height="181" frameX="-265" frameY="-273" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="U2.png" x="119" y="2"  width="112" height="179" frameX="-265" frameY="-275" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="I1.png" x="2" y="187"  width="123" height="165" frameX="-260" frameY="-290" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="I2.png" x="235" y="2"  width="125" height="164" frameX="-259" frameY="-291" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="I4.png" x="235" y="170"  width="124" height="163" frameX="-260" frameY="-292" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="I3.png" x="2" y="356"  width="126" height="162" frameX="-259" frameY="-293" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="L2.png" x="132" y="337"  width="134" height="162" frameX="-243" frameY="-292" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="R1.png" x="364" y="2"  width="137" height="162" frameX="-261" frameY="-292" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="R2.png" x="364" y="168"  width="132" height="162" frameX="-261" frameY="-292" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="L1.png" x="270" y="337"  width="140" height="160" frameX="-236" frameY="-294" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="D2.png" x="505" y="2"  width="131" height="156" frameX="-256" frameY="-299" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="D1.png" x="414" y="334"  width="139" height="153" frameX="-251" frameY="-302" frameWidth="640" frameHeight="480"/>
+</TextureAtlas>
