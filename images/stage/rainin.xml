@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="rainin.png" width="1213" height="942">
+  <SubTexture name="rain2.png" x="2" y="2"  width="614" height="461" frameX="-8" frameY="-0" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="rain4.png" x="2" y="467"  width="614" height="461" frameX="-18" frameY="-19" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="rain1.png" x="620" y="2"  width="591" height="467" frameX="-19" frameY="-0" frameWidth="640" frameHeight="480"/>
+  <SubTexture name="rain3.png" x="620" y="473"  width="591" height="467" frameX="-30" frameY="-13" frameWidth="640" frameHeight="480"/>
+</TextureAtlas>

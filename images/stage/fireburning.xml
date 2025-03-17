@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fireburning.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="fire00000" x="502" y="1131" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire10000" x="0" y="0" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire20000" x="1506" y="0" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire30000" x="1506" y="377" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire40000" x="0" y="1508" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire50000" x="502" y="754" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire60000" x="502" y="0" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire70000" x="1004" y="377" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire80000" x="0" y="1131" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire90000" x="0" y="377" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire100000" x="0" y="754" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire110000" x="1506" y="1131" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire120000" x="502" y="1508" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire130000" x="1004" y="1508" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire140000" x="1506" y="754" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire150000" x="502" y="377" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire160000" x="1004" y="0" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire170000" x="1506" y="1508" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire180000" x="1004" y="1131" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+	<SubTexture name="fire190000" x="1004" y="754" width="502" height="377" frameX="2" frameY="2" frameWidth="498" frameHeight="373"/>
+</TextureAtlas>

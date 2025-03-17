@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="yctpnotes.png" width="28" height="39">
+  <SubTexture name="NONE.png" x="0" y="0"  width="16" height="15" frameX="-0" frameY="-0" frameWidth="16" frameHeight="15"/>
+  <SubTexture name="D.png" x="0" y="15" width="15" height="12" rotated="true"  frameX="-2" frameY="-0" frameWidth="16" frameHeight="15"/>
+  <SubTexture name="L.png" x="16" y="0" width="12" height="15" rotated="true"  frameX="-0" frameY="-1" frameWidth="16" frameHeight="15"/>
+  <SubTexture name="R.png" x="15" y="15" width="12" height="15" rotated="true"  frameX="-1" frameY="-2" frameWidth="16" frameHeight="15"/>
+  <SubTexture name="U.png" x="0" y="27" width="15" height="12" rotated="true"  frameX="-2" frameY="-0" frameWidth="16" frameHeight="15"/>
+</TextureAtlas>

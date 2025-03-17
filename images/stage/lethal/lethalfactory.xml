@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="lethalfactory.png" width="3440" height="3600">
+  <SubTexture name="leftside1.png" x="0" y="0"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="leftside2.png" x="0" y="720"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="rightside1.png" x="1280" y="0" width="720" height="1280" rotated="true"  frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="rightside2.png" x="0" y="1440"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="switch0.png" x="1280" y="1280"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="switch1.png" x="2000" y="0" width="720" height="1280" rotated="true"  frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="switch2.png" x="1280" y="2000"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="switch3.png" x="0" y="2160"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="switch4.png" x="2560" y="1280" width="720" height="1280" rotated="true"  frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="switch5.png" x="2720" y="0" width="720" height="1280" rotated="true"  frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="switch6.png" x="1280" y="2720"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="switch7.png" x="0" y="2880"  width="1280" height="720" frameX="-0" frameY="-0" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>
